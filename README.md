@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhi
 
-🔧 **Software Development Engineer**  
+🔧 Passionate **Software Development Engineer**  
 💻 **Code Enthusiast**  
 🌱 **Continuous Learner**
 
